@@ -1,5 +1,7 @@
 # Database-Project
 
+This is a group project, that I am part of the project team, contribute part of the coding.  This project is to simulate restaurant operations including allowing customers to place order via the app.
+
 Configuration Steps:
 
 1. Set Up MySQl 
